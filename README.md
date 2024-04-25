@@ -1,12 +1,12 @@
 # BI-360
 
 Business Insights 360
-Project Overview
+Project Overview:
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course.
 
-**Tech stacks**
+**Tech Stacks:**
 SQL
 PowerBi Desktop
 Excel
@@ -15,7 +15,7 @@ DAX studio (for optimizing the report)
 Project charter file
 PowerBI techniques Learnt
 
-**What are all the questions should be asked before staring the project**
+**What are all the questions should be asked before staring the project :**
 Creating calculated columns
 creating measure using DAX language
 Data modeling
@@ -49,7 +49,7 @@ Retailer
 Distributors
 Consumer
 
-**Company’s back ground**
+**Company’s back ground :**
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
